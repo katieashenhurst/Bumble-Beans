@@ -1,0 +1,156 @@
+:root { 
+  scroll-behavior: smooth; 
+  }
+
+a:visited { text-decoration: none; color:black; }
+a:hover { text-decoration: none; color: navy; }
+a:focus { text-decoration: none; color:navy; }
+a:hover, a:active { text-decoration: none; color: navy; }
+
+body {
+  background: #FDFD96;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+.bumble-beans {
+    text-shadow: 1px 2px white;
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #ffff7f;
+  border-radius: 100px;
+
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+
+
+.title {
+  text-align: center;
+  color: 000080;
+}
+
+.intro {
+  text-align: center;
+  color: black;
+}
+
+img.bee {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#breakfast {
+  text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+.breakfast {
+  color: black;
+  font-weight: bold;
+}
+
+.breakfast-list {
+      text-align: center;
+
+}
+.back-to-breakfast {
+    text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
+  color: white;
+  text-decoration: none;
+    
+}
+
+#dinner {
+   text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+.dinner {
+  color: black;
+  font-weight: bold;
+}
+
+.dinner-list {
+  text-align: center;
+}
+
+
+#dessert {
+  text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+#drinks {
+  text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+
+.top-arrow {
+  text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
+  color: white;
+  text-decoration: none;
+}
+
+.back-to-dinner {
+    text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
+  color: white;
+  text-decoration: none;
+}
+.checkbox {
+   text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid black;
+  background: #E3B778;
+  color: black;
+  text-decoration: none;
+}
