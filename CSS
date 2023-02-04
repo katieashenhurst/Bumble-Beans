@@ -8,29 +8,32 @@ a:focus { text-decoration: none; color:navy; }
 a:hover, a:active { text-decoration: none; color: navy; }
 
 body {
-  background: #ADD8E6;
+  background: #FDFD96;
   padding: 25px;
   font-family: sans-serif;
 }
 
 .bumble-beans {
-    text-shadow: 1px 2px white;
+    text-shadow: 1px 2px #ffff66;
 }
+
 #navbar {
   overflow: hidden;
-  background-color: #89CFF0;
+  background-color: #ffff7f;
   border-radius: 100px;
 
 }
 
 #navbar a {
-  float: center;
+  float: left;
   display: block;
-  color: navy;
+  color: black;
   text-align: center;
   padding: 14px;
   text-decoration: none;
 }
+
+
 
 .title {
   text-align: center;
@@ -52,8 +55,8 @@ img.bee {
   text-decoration: none;
   padding: 10px;
   font-family: sans-serif;
-  color: #fff;
-  background: navy;
+  color: black;
+  background: #ffff66;
   border-radius: 100px;
   text-align: center;
     text-decoration: none;
@@ -64,23 +67,27 @@ img.bee {
   font-weight: bold;
 }
 
+.breakfast-list {
+      text-align: center;
+
+}
 .back-to-breakfast {
     text-align: center;
   font-size: 20px;
   border-radius: 100px;
-  border: 2px solid navy;
-  background: #89CFF0;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
   color: white;
   text-decoration: none;
-    box-shadow: 3px 3px navy;
+    
 }
 
 #dinner {
-  text-decoration: none;
+   text-decoration: none;
   padding: 10px;
   font-family: sans-serif;
-  color: #fff;
-  background: navy;
+  color: black;
+  background: #ffff66;
   border-radius: 100px;
   text-align: center;
     text-decoration: none;
@@ -91,59 +98,93 @@ img.bee {
   font-weight: bold;
 }
 
-
-
-#desserts {
-  text-decoration: none;
-  padding: 10px;
-  font-family: sans-serif;
-  color: #fff;
-  background: navy;
-  border-radius: 100px;
+.dinner-list {
   text-align: center;
-    text-decoration: none;
-}
-
-#drinks {
-  text-decoration: none;
-  padding: 10px;
-  font-family: sans-serif;
-  color: #fff;
-  background: navy;
-  border-radius: 100px;
-  text-align: center;
-    text-decoration: none;
-}
-
-
-.top-arrow {
-  text-align: center;
-  font-size: 20px;
-  border-radius: 100px;
-  border: 2px solid navy;
-  background: #89CFF0;
-  color: white;
-  text-decoration: none;
-    box-shadow: 3px 3px navy;
 }
 
 .back-to-dinner {
     text-align: center;
   font-size: 20px;
   border-radius: 100px;
-  border: 2px solid navy;
-  background: #89CFF0;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
   color: white;
   text-decoration: none;
-    box-shadow: 3px 3px navy;
 }
+
+#dessert {
+  text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+.back-to-dessert {
+    text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
+  color: white;
+  text-decoration: none;
+}
+#drinks {
+  text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+.back-to-drinks {
+    text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
+  color: white;
+  text-decoration: none;
+}
+
+
+#suggestions {
+   text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+.suggestions {
+  text-align: center;
+}
+
+.top-arrow {
+  text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
+  color: white;
+  text-decoration: none;
+}
+
 .checkbox {
    text-align: center;
   font-size: 20px;
   border-radius: 100px;
-  border: 2px solid pink;
-  background: #FFB6C1;
+  border: 2px solid black;
+  background: #E3B778;
   color: black;
   text-decoration: none;
-    box-shadow: 3px 3px #AA336A;
 }
