@@ -14,6 +14,12 @@ body {
   padding: 0;
 }
 
+img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .navbar ul{
   list-style-type: none;
   background: orange;
@@ -50,9 +56,6 @@ body {
 }
 
 
-
-
-
 .title {
   text-align: center;
   color: 000080;
@@ -69,14 +72,31 @@ img.bee {
     margin-right: auto;
 }
 
+
+h4 {
+    text-align: center;
+
+}
+
+ul {
+  text-align: center;
+      list-style-type: none;
+
+}
+
+
+h5 {
+    text-align: center;
+    
+}
+
 #breakfast {
   text-decoration: none;
-  padding: 10px;
   font-family: sans-serif;
   color: black;
   background: #ffff66;
-  margin: 30px;
-  padding: 20px 25px;
+  margin: 25px 20px;
+  padding: 10px;
   border-radius: 100px;
   text-align: center;
     text-decoration: none;
@@ -89,7 +109,17 @@ img.bee {
 
 .breakfast-list {
       text-align: center;
+}
 
+#spinach-fritatta {
+  text-align: center;
+}
+#fritatta {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid orange;
+    max-width: 100%;
 }
 .back-to-breakfast {
     text-align: center;
