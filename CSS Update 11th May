@@ -1,0 +1,269 @@
+:root { 
+  scroll-behavior: smooth; 
+  }
+
+a:visited { text-decoration: none; color:black; }
+a:hover { text-decoration: none; color: orange; }
+a:focus { text-decoration: none; color:navy; }
+a:hover, a:active { text-decoration: none; color: orange; }
+
+body {
+  background: white;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar ul{
+  list-style-type: none;
+  background: orange;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.navbar li {
+  display: inline-block
+}
+
+.navbar a{
+  text-decoration: none;
+  color: black;
+  width: 100%;
+  display: block;
+  padding: 10px 15px;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.navbar a:hover {
+  background: #FDFD96;
+  color: orange;
+}
+
+
+
+.bumble-beans {
+    text-shadow: 1px 2px #ffff66;
+}
+
+
+.title {
+  text-align: center;
+  color: 000080;
+}
+
+.intro {
+  text-align: center;
+  color: black;
+}
+
+img.bee {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h4 {
+    text-align: center;
+
+}
+
+ul {
+  text-align: center;
+      list-style-type: none;
+
+}
+
+
+h5 {
+    text-align: center;
+    
+}
+
+#breakfast {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  margin: 25px 20px;
+  padding: 10px;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+.breakfast {
+  color: black;
+  font-weight: bold;
+}
+
+.breakfast-list {
+      text-align: center;
+}
+
+#spinach-fritatta {
+  text-align: center;
+}
+#fritatta {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid orange;
+    max-width: 100%;
+}
+
+
+.back-to-breakfast {
+    text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
+  color: white;
+  text-decoration: none;    
+}
+
+#dinner {
+   text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+.dinner {
+  color: black;
+  font-weight: bold;
+}
+
+.dinner-list {
+  text-align: center;
+}
+#veggie-bean-chilli {
+  text-align: center;
+}
+#chilli {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid orange;
+    max-width: 100%;
+}
+
+#plant-based-harissa-burger {
+  text-align: center;
+}
+#burger {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid orange;
+    max-width: 100%;
+}
+
+#cheesy-chipotle-bean-quesadillas {
+  text-align: center;
+}
+
+#naanizza {
+  text-align: center;
+}
+.back-to-dinner {
+    text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
+  color: white;
+  text-decoration: none;
+}
+
+#dessert {
+  text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+.back-to-dessert {
+    text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
+  color: white;
+  text-decoration: none;
+}
+#drinks {
+  text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+.back-to-drinks {
+    text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
+  color: white;
+  text-decoration: none;
+}
+
+
+#suggestions {
+   text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: #ffff66;
+  border-radius: 100px;
+  text-align: center;
+    text-decoration: none;
+}
+
+.suggestions {
+  text-align: center;
+}
+
+.top-arrow{
+  text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid #7393B3;
+  background: #D7E5F0;
+  color: white;
+  text-decoration: none;
+}
+
+.checkbox {
+   text-align: center;
+  font-size: 20px;
+  border-radius: 100px;
+  border: 2px solid black;
+  background: #E3B778;
+  color: black;
+  text-decoration: none;
+}
